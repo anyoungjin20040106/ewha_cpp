@@ -1,7 +1,3 @@
 
-*
-
-!*.cpp
-!*.h
-
-!.gitignore
+.vscode
+*.exe
