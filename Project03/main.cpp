@@ -7,4 +7,5 @@ int main(){
     mt19937 gen(rd());
     uniform_int_distribution<int> dis(1,100);
     int result=dis(gen);
+
 }
